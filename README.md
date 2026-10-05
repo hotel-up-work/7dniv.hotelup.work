@@ -1,6 +1,6 @@
 # Готель «7 Днів»
 
-Live site: https://7dniv.webart.work
+Live site: https://7dniv.hotelup.work
 
 ## About
 Готель «7 Днів» - тризірковий готель у центрі Кам'янця-Подільського за адресою вулиця Соборна, 4. Заклад пропонує 217 номерів і позиціонує себе як комплекс формату "все поруч", що об'єднує проживання, SPA, басейн, фітнес-центр, ресторани та простори для ділових подій в одному місці. Номерний фонд розрахований як на індивідуальних гостей, так і на туристичні та корпоративні групи. За даними Google, готель має рейтинг 4.2 на основі 2843 відгуків (станом на 20.09.2026).
@@ -19,7 +19,7 @@ Live site: https://7dniv.webart.work
 ## Contact
 - Phone: +380 67 442 18 81
 - Address: вулиця Соборна, 4, Кам'янець-Подільський, 32302
-- Website/booking: 7dniv.webart.work (сторінка посилається на офіційний сайт бронювання www.7dniv.ua)
+- Website/booking: 7dniv.hotelup.work (сторінка посилається на офіційний сайт бронювання www.7dniv.ua)
 
 ## Forms
 Live forms send requests to HotelOS (hotelId `kp-7dniv`): `stay-request`, `spa-request` (SPA / басейн), `conference-request`. Phone is the only required field.
